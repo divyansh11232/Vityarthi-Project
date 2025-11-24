@@ -105,8 +105,3 @@ INPUT REQUIREMENTS
   
   Age: The script logic currently supports patients aged 12 and older.
 
-DISCLAIMER
-
-  This software is for educational purposes only. Do not use this tool for actual
-  medical diagnosis. Always consult a qualified healthcare professional for
-  medical advice and lab result interpretation.
